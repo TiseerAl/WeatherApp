@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="setting">Setting</string>
+    <string name="all_day">Weekly weather</string>
+    <string name="weather">Weather</string>
+    <string name="weather_temp">%1$.1f\u00B0</string>
+    <string name="app_features">See current weather data!\n\nNavigate to see weekly data! \n\nChange settings to watch different location\'s weather!</string>
+</resources>
